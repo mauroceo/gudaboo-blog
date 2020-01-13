@@ -13,6 +13,4 @@ meta:
 ---
 Testando post no blog
 
-
-
-![](/images/uploads/card-og.png)
+![null](/images/uploads/card-og.png)
