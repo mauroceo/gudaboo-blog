@@ -3,10 +3,10 @@ template: SinglePost
 title: Cuidados com o bebê
 status: Published
 date: '2020-01-11'
-featuredImage: /images/uploads/luma-pimentel-1vnb2l7j3by-unsplash.jpg
+featuredImage: /images/uploads/bebe.jpg
 excerpt: o que é isso?
 categories:
-  - category: Trabalho Remoto
+  - category: Primeira Infância
 meta:
   description: testando post no blog
   title: Rotinas diárias
