@@ -11,6 +11,6 @@ meta:
   description: testando post no blog
   title: Rotinas diárias
 ---
-Testando post no blog
+Testando post no blog.
 
 ![null](/images/uploads/card-og.png)
