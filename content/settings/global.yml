@@ -2,7 +2,7 @@ siteTitle: Gudaboo blog
 siteUrl: 'https://gudaboo-blog.netlify.com'
 siteDescription: Pediatras onde estiver e quando precisar.
 socialMediaCard:
-  image: ''
+  image: /images/uploads/ignacio-campo-tc9boyqy_40-unsplash.jpg
 headerScripts: >-
   <!-- Global site tag (gtag.js) - Google Analytics -->
 
