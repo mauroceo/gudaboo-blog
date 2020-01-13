@@ -6,7 +6,7 @@ export default ({ globalSettings, socialSettings, navLinks }) => (
   <div>
     <h2 className="taCenter">
       Follow us{' '}
-      <a href="https://instagram.com/beliive.br/" style={{textDecoration:"none"}} target="_blank">@beliive.br</a>
+      <a href="https://instagram.com/gudaboo/" style={{textDecoration:"none"}} target="_blank">@gudaboo</a>
     </h2>
     <br />
     <InstagramFeed count="8" />

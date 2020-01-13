@@ -33,7 +33,7 @@ const Nav = ({ siteTitle }) => {
           <NavLink to="/" exact>
             Blog
           </NavLink>
-          <a class="NavLink" href="https://beliive.com" alt="Ir para o Site da beliive" >
+          <a class="NavLink" href="https://gudaboo.com.br" alt="Ir para o Site da gudaboo" >
             Site
           </a>
           {/* <NavLink to="/" exact>
