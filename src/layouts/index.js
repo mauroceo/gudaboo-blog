@@ -7,7 +7,6 @@ import './globalStyles.css'
 import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import GithubCorner from '../components/GithubCorner'
 
 export default ({ children, data }) => {
   const {
@@ -21,7 +20,7 @@ export default ({ children, data }) => {
   return (
     <Fragment>
       <Helmet defaultTitle={siteTitle} titleTemplate={`%s | ${siteTitle}`}>
-        <html lang="en" />
+        <html lang="pt" />
         {/* Add font link tags here */}
       </Helmet>
 
@@ -34,8 +33,6 @@ export default ({ children, data }) => {
         }
         description={siteDescription}
       />
-
-      <GithubCorner url="https://github.com/Jinksi/gatsbro" />
 
       <Nav siteTitle={siteTitle} />
 

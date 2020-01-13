@@ -31,12 +31,18 @@ const Nav = ({ siteTitle }) => {
         </Link>
         <div className="Nav--Links">
           <NavLink to="/" exact>
-            Home
+            Blog
+          </NavLink>
+          <a class="NavLink" href="https://beliive.com" alt="Ir para o Site da beliive" >
+            Site
+          </a>
+          {/* <NavLink to="/" exact>
+            Site
           </NavLink>
           <NavLink to="/about/" exact>
             About
           </NavLink>
-          <NavLink to="/blog/" exact>
+          <NavLink to="/" exact>
             Blog
           </NavLink>
           <NavLink to="/default/" exact>
@@ -44,7 +50,7 @@ const Nav = ({ siteTitle }) => {
           </NavLink>
           <NavLink to="/contact/" exact>
             Contact
-          </NavLink>
+          </NavLink> */}
         </div>
         <button
           className="Button-blank Nav--MenuButton"

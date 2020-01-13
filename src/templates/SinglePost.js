@@ -5,6 +5,7 @@ import _format from 'date-fns/format'
 import Link from 'gatsby-link'
 import { ChevronLeft } from 'react-feather'
 
+import Meta from '../components/Meta'
 import Content from '../components/Content'
 import Image from '../components/Image'
 import './SinglePost.css'
@@ -26,6 +27,10 @@ export const SinglePostTemplate = ({
     <Helmet>
       <title>{title}</title>
     </Helmet>
+  
+    <Meta
+      absoluteImageUrl={featuredImage}
+    />
 
     {featuredImage && (
       <Image
@@ -37,8 +42,8 @@ export const SinglePostTemplate = ({
     )}
 
     <div className="container skinny">
-      <Link className="SinglePost--BackButton" to="/blog/">
-        <ChevronLeft /> BACK
+      <Link className="SinglePost--BackButton" to="/">
+        <ChevronLeft /> VOLTAR
       </Link>
       <div className="SinglePost--Content relative">
         <div className="SinglePost--Meta">
@@ -81,7 +86,7 @@ export const SinglePostTemplate = ({
               className="SinglePost--Pagination--Link prev"
               to={prevPostURL}
             >
-              Previous Post
+              Post Anterior
             </Link>
           )}
           {nextPostURL && (
@@ -89,7 +94,7 @@ export const SinglePostTemplate = ({
               className="SinglePost--Pagination--Link next"
               to={nextPostURL}
             >
-              Next Post
+              Próximo Post
             </Link>
           )}
         </div>
