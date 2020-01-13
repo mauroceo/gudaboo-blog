@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: ''
-title: Blog da Beliive
-featuredImage: /images/uploads/background.jpg
-subtitle: Acredite no poder das pessoas!
+title: Gudaboo blog
+featuredImage: /images/uploads/ignacio-campo-tc9boyqy_40-unsplash.jpg
+subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
 ---
 <!-- ---
 template: HomePage
