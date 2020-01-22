@@ -5,6 +5,7 @@ import _format from 'date-fns/format'
 import Link from 'gatsby-link'
 import { ChevronLeft } from 'react-feather'
 
+import { DiscussionEmbed } from "disqus-react"
 import Meta from '../components/Meta'
 import Content from '../components/Content'
 import Image from '../components/Image'
@@ -17,7 +18,8 @@ export const SinglePostTemplate = ({
   body,
   nextPostURL,
   prevPostURL,
-  categories = []
+  categories = [],
+  disqusConfig
 }) => (
   <article
     className="SinglePost section light"
@@ -27,10 +29,6 @@ export const SinglePostTemplate = ({
     <Helmet>
       <title>{title}</title>
     </Helmet>
-  
-    <Meta
-      absoluteImageUrl={featuredImage}
-    />
 
     {featuredImage && (
       <Image
@@ -98,6 +96,10 @@ export const SinglePostTemplate = ({
             </Link>
           )}
         </div>
+        <br/><br/>
+        <div>
+          <DiscussionEmbed {...disqusConfig} />
+        </div>
       </div>
     </div>
   </article>
@@ -107,6 +109,10 @@ export const SinglePostTemplate = ({
 const SinglePost = ({ data, pathContext }) => {
   const { post, allPosts } = data
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: post.id },
+  }
   return (
     <SinglePostTemplate
       {...post}
@@ -114,6 +120,7 @@ const SinglePost = ({ data, pathContext }) => {
       body={post.html}
       nextPostURL={_get(thisEdge, 'next.fields.slug')}
       prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+      disqusConfig={disqusConfig}
     />
   )
 }
