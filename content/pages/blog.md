@@ -1,8 +1,8 @@
 ---
 template: BlogIndex
 slug: blog
-title: Gudaboo blog
-featuredImage: /images/uploads/ignacio-campo-tc9boyqy_40-unsplash.jpg
+title: Blog GudaboO
+featuredImage: /images/uploads/27612.jpg
 subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
 ---
 
