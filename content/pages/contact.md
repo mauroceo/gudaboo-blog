@@ -1,20 +1,32 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact
-featuredImage: /images/uploads/mark-chang-74-3.jpg
-subtitle: Contact Page has a subtitle
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Agende Sua Consulta
+featuredImage: /images/uploads/banner_bebe.png
+subtitle: >-
+  Pediatras quando mais precisar e onde estiver! - Atendimento particular
+  domiciliar
+address: 'Rua bernardino de campos, 413.'
+phone: (11) 3181-9115
+email: sac@gudaboo.com.br
+meta:
+  description: >-
+    Nosso objetivo é conectar excelentes pediatras a pacientes para realizar o
+    atendimento do seu filho na sua casa. Agende agora uma consulta.
+  title: Agende sua Consulta
 ---
+# Você já conhece o nosso atendimento?
 
-# Example contact form
+Nosso objetivo é conectar excelentes pediatras a pacientes para realizar o atendimento do seu filho na sua casa.
 
-This form is setup to use Netlify's form handling:
+Vamos além de uma plataforma de tecnologia e saúde: focamos na qualidade e excelência de cada consulta.
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+**Viva essa experiência:**
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+\- Disponibilizamos pediatras na sua casa ou onde estiver (escola, trabalho, hotel, etc);
+
+\- Temos suporte lado a lado, oferecemos chat com a pediatra entre as consultas;
+
+\- Garantimos que evite filas e sala de espera. Nossa equipe é pontual;
+
+\- Atendimento personalizado e con duração de 45 à 60 minutos.
