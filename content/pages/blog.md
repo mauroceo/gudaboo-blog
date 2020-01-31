@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Blog GudaboO
-featuredImage: /images/uploads/27612.jpg
+featuredImage: /images/uploads/blog.jpg
 subtitle: Conteúdo valioso para mamães dedicadas - feito por nossas doutoras.
 meta:
   description: >-
