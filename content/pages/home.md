@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: ''
 title: Gudaboo blog
-featuredImage: /images/uploads/27612.jpg
+featuredImage: /images/uploads/blogcover.jpg
 subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
 ---
 <!-- ---
