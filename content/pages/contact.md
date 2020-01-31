@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Agende Sua Consulta
-featuredImage: /images/uploads/banner_bebe.png
+featuredImage: /images/uploads/xx.jpg
 subtitle: >-
   Pediatras quando mais precisar e onde estiver! - Atendimento particular
   domiciliar
