@@ -2,10 +2,8 @@
 template: ContactPage
 slug: contact
 title: Agende Sua Consulta
-featuredImage: /images/uploads/xx.jpg
-subtitle: >-
-  Pediatras quando mais precisar e onde estiver! - Atendimento particular
-  domiciliar
+featuredImage: /images/uploads/blogcover.jpg
+subtitle: Atendimento particular domiciliar
 address: 'Rua bernardino de campos, 413.'
 phone: (11) 3181-9115
 email: sac@gudaboo.com.br
