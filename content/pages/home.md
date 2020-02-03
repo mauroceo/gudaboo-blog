@@ -1,9 +1,14 @@
 ---
 template: BlogIndex
 slug: ''
-title: Gudaboo blog
+title: Blog GudaboO
 featuredImage: /images/uploads/blogcover.jpg
 subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
+meta:
+  description: >-
+    Conteúdo valioso para mamães sobre o vasto universo da maternidade - feito
+    por nossas doutoras e especialistas.
+  title: Blog GudaboO
 ---
 <!-- ---
 template: HomePage
