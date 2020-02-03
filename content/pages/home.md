@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 slug: ''
-title: Blog gudaboO
+title: Blog GudaboO
 featuredImage: /images/uploads/blogcover.jpg
 subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
 meta:
