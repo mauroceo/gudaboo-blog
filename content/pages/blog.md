@@ -1,8 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Gudaboo blog
-featuredImage: /images/uploads/ignacio-campo-tc9boyqy_40-unsplash.jpg
-subtitle: Pediatras disponíveis em São Paulo quando mais precisar e onde estiver
+title: Blog GudaboO
+featuredImage: /images/uploads/blogcover.jpg
+subtitle: Conteúdo valioso para mamães dedicadas - feito por doutoras.
+meta:
+  description: >-
+    Conteúdo valioso para mamães sobre o vasto universo da maternidade - feito
+    por nossas doutoras e especialistas.
+  title: Blog GudaboO
 ---
 
