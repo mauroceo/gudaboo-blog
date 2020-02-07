@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 'Frequência ideal de consultas ao pediatra '
+title: 'Frequência Ideal de Consultas ao Pediatra '
 status: Published
 date: '2020-02-04'
 featuredImage: /images/uploads/27612.jpg
@@ -29,7 +29,7 @@ meta:
     na sua agenda as consultas ao pediatra. Leia mais e saiba tudo sobre esse
     tema! 
   noindex: false
-  title: 'Frequência ideal de consultas ao pediatra '
+  title: 'Frequência Ideal de Consultas ao Pediatra '
 ---
 O seu bebê nasceu? Então, **é hora de atentar-se a diversos detalhes e incluir na sua agenda as consultas ao pediatra.**
 
