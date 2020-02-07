@@ -30,13 +30,17 @@ const Nav = ({ siteTitle }) => {
           <Logo />
         </Link>
         <div className="Nav--Links">
+          <a href="https://gudaboo.com.br" alt="Site da gudaboO" title="Site da gudaboO" >
+            <Logo />
+          </a>
           <NavLink to="/" exact>
-            Blog
+            Home
           </NavLink>
+          {/*
           <a class="NavLink" href="https://gudaboo.com.br" alt="Ir para o Site da gudaboo" >
             Site
           </a>
-          {/* <NavLink to="/" exact>
+          <NavLink to="/" exact>
             Site
           </NavLink>
           <NavLink to="/about/" exact>
