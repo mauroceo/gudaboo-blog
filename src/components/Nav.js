@@ -26,9 +26,9 @@ const Nav = ({ siteTitle }) => {
   return (
     <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
       <div className="Nav--Container container">
-        <Link to="/" onClick={handleLinkClick} title={siteTitle}>
+        {/* <Link to="/" onClick={handleLinkClick} title={siteTitle}>
           <Logo />
-        </Link>
+        </Link> */}
         <div className="Nav--Links">
           <a href="https://gudaboo.com.br" alt="Site da gudaboO" title="Site da gudaboO" >
             <Logo />
