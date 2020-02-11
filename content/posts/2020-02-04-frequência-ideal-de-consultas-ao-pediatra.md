@@ -31,7 +31,7 @@ meta:
   noindex: false
   title: 'Frequência Ideal de Consultas ao Pediatra '
 ---
-O seu bebê nasceu? Então, **é hora de atentar-se a diversos detalhes e incluir na sua agenda as consultas ao pediatra.**
+O seu bebê nasceu? Então, é hora de atentar-se a diversos detalhes e incluir na sua agenda as consultas ao pediatra.
 
 Sim, eu sei que muitas dúvidas surgirão neste momento, mas fica tranquila, mamãe! Estou aqui para te ajudar.  Vamos lá? 
 
@@ -57,7 +57,7 @@ Daí pra frente, a criança deve ir ao pediatra a cada 6 meses até os 12 anos d
 
 ## Como escolher um bom pediatra?
 
-Em primeiro lugar, é importante verificar a formação do profissional e o seu CRM. Além disso, é importante se basear em indicações de amigos ou parentes!
+Em primeiro lugar, é importante verificar a formação do profissional e o seu CRM. Além disso, é válido se basear em indicações de amigos ou parentes!
 
 Ah, mais uma dica: veja nas redes sociais e em páginas de reclamação a procedência do médico e o que as pessoas falam sobre ele. 
 
@@ -65,7 +65,8 @@ Por fim, na sua primeira consulta sempre conte sobre o que é essencial para voc
 
 Além disso, é muito importante verificar o quanto esse pediatra tem de disponibilidade para atender em casos de emergência. 
 
-Agora uma dica imperdível e de amiga, viu? Aqui na Gudaboo **temos um time de pediatras extremamente profissionais e humanas.**
+Agora uma dica imperdível e de amiga, viu? Aqui na Gudaboo **temos um time de pediatras extremamente profissionais e humanas.
+**
 
 Lembre-se: casos urgentes precisam de uma avaliação do pediatra o mais rápido possível! Dessa forma, será feito a análise da necessidade ou não da realização de exames e diversas outras investigações da saúde do bebê. 
 
