@@ -65,8 +65,7 @@ Por fim, na sua primeira consulta sempre conte sobre o que é essencial para voc
 
 Além disso, é muito importante verificar o quanto esse pediatra tem de disponibilidade para atender em casos de emergência. 
 
-Agora uma dica imperdível e de amiga, viu? Aqui na Gudaboo **temos um time de pediatras extremamente profissionais e humanas.
-**
+Agora uma dica imperdível e de amiga, viu? Aqui na Gudaboo **temos um time de pediatras extremamente profissionais e humanas.**
 
 Lembre-se: casos urgentes precisam de uma avaliação do pediatra o mais rápido possível! Dessa forma, será feito a análise da necessidade ou não da realização de exames e diversas outras investigações da saúde do bebê. 
 
