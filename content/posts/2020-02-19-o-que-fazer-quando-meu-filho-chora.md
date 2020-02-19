@@ -3,6 +3,7 @@ template: SinglePost
 title: O Que Fazer Quando Meu Filho Chora?
 status: Published
 date: '2020-02-19'
+featuredImage: /images/uploads/189539-oxjzij-13.jpg
 excerpt: >-
   Choro de bebê: tema tão polêmico e presente na vida de todas as mães! Afinal,
   como lidar quando eles choram sem parar? Devo fazê-lo parar imediatamente? Ou
