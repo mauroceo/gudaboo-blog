@@ -74,3 +74,6 @@ Escute sempre! O que ele mais precisa nesse momento é ser ouvido.
 Bom, deu para perceber que “calma” é a palavra-chave para essa situação, né mamãe? Por isso, **é tão importante cuidar de você também,** afinal isso irá refletir na sua relação com o seu filho.
 
 Agora, quero saber: restou alguma dúvida? Gostaria de discutir algo a mais sobre esse tema? Conta pra mim nos comentários, em seguida te ajudarei!
+
+\
+_**Escrito por Dra. Natalia Ferreira.**_
