@@ -75,5 +75,5 @@ Bom, deu para perceber que “calma” é a palavra-chave para essa situação, 
 
 Agora, quero saber: restou alguma dúvida? Gostaria de discutir algo a mais sobre esse tema? Conta pra mim nos comentários, em seguida te ajudarei!
 
-\
+
 _**Escrito por Dra. Natalia Ferreira.**_
