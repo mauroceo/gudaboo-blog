@@ -34,8 +34,7 @@ Antes de mais nada, é preciso entender que esse é o **ÚNICO meio de comunica�
 
 Então, é extremamente normal o bebê chorar entre uma até três horas por dia, justamente porque **essa é a única maneira dele comunicar as suas necessidades,** seja fome, sono, frio, etc. 
 
-Identificar a causa do choro do bebê é o que nos intriga e nos deixa ansiosas, né mamãe? Sei bem disso! Mas saiba que **aos poucos você conhece mais as reações do seu pequeno e entende o que ele deseja naquele momento.
-**
+Identificar a causa do choro do bebê é o que nos intriga e nos deixa ansiosas, né mamãe? Sei bem disso! Mas saiba que **aos poucos você conhece mais as reações do seu pequeno e entende o que ele deseja naquele momento.**
 
 No começo, você pode encontrar a causa do choro ao excluir outros motivos que não fazem sentido naquela hora. 
 
