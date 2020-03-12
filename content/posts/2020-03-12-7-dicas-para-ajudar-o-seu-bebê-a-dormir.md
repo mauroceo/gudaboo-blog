@@ -9,8 +9,7 @@ excerpt: >-
   existem alguns jeitinhos de ajudá-lo nessa missão e eu vou falar sobre isso
   hoje.
 categories:
-  - category: ''
-  - category: Disciplina Positiva
+  - category: Primeira Infância
 meta:
   description: >-
     Seu bebê está com dificuldade para dormir? Fique tranquila, mamãe, pois
