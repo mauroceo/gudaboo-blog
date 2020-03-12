@@ -9,6 +9,8 @@ excerpt: >-
   como lidar quando eles choram sem parar? Devo fazê-lo parar imediatamente? Ou
   melhor deixá-lo chorar a vontade? Qual medida tomar mediante a essa situação?
   Qual o motivo do choro? 
+categories:
+  - category: Disciplina Positiva
 meta:
   description: >-
     Choro de bebê: tema tão polêmico e presente na vida de todas as mães!
