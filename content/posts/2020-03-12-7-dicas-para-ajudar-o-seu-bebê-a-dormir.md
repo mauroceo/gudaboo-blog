@@ -3,12 +3,14 @@ template: SinglePost
 title: 7 dicas para ajudar o seu bebê a dormir
 status: Published
 date: '2020-03-12'
+featuredImage: /images/uploads/dicas_para_ajudar_o_seu_bebe_a_dormir.png
 excerpt: >-
   Seu bebê está com dificuldade para dormir? Fique tranquila, mamãe, pois
   existem alguns jeitinhos de ajudá-lo nessa missão e eu vou falar sobre isso
   hoje.
 categories:
   - category: ''
+  - category: Disciplina Positiva
 meta:
   description: >-
     Seu bebê está com dificuldade para dormir? Fique tranquila, mamãe, pois
