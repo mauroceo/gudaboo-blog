@@ -21,7 +21,7 @@ meta:
     costumamos dizer) - sem exceção. 
   title: Por que o bebê regurgita? Isso é um problema?
 ---
-Pais do nosso coração, antes de iniciar esse texto, gostaríamos de te tranquilizar! Pois, sim, **todo bebê regurgita** (ou dá aquela golfada, como costumamos dizer) - **sem exceção.** 
+Pais do nosso coração, antes de iniciar esse texto, gostaríamos de te tranquilizar! Pois, sim, **todo bebê regurgita** (ou dá aquela golfada, como costumamos dizer) -  **sem exceção.** 
 
 Isso é muito comum nos primeiros meses de vida e - na maioria dos casos - não gera problemas à saúde. 
 
