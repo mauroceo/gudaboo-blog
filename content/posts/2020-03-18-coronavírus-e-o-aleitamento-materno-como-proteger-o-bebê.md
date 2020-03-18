@@ -33,7 +33,7 @@ Vejo muitas mamães preocupadas se devem ou não continuar amamentando seus beb�
 
 Vamos nessa falar sobre esse vírus que está se espalhando pelo mundo? 
 
-\----------------------------------------------------------------------------------------------------------------------
+\--------------------------------------------------------------------------------------
 
 **Coronavírus e amamentação: o que dizem os estudos**
 
