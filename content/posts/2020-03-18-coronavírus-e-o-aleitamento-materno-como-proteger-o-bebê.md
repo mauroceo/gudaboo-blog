@@ -59,8 +59,6 @@ Se tiver qualquer dúvida sobre esse assunto, converse com o pediatra.
 
 Ficou alguma dúvida sobre Coronavírus e amamentação? Deixa aqui na caixa de comentários. Vamos levar informação a quem precisa, mamãe! 
 
-
-
-
-
 _\*Texto escrito por Dra. Natalia Ferreira._
+
+_FONTE: Sociedade Brasileira de Pediatria, 12 de março de 2020._
