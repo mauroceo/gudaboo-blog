@@ -26,7 +26,7 @@ Você sabia que não existe alimento melhor para o bebê do que o leite materno?
 
  
 
-No entanto,** muitas mães não podem, não conseguem e outras preferem não amamentar** por diversas razões. 
+No entanto, **muitas mães não podem, não conseguem e outras preferem não amamentar** por diversas razões. 
 
  
 
@@ -100,7 +100,7 @@ De forma simples e clara: **lactose é o açúcar do leite.** E nessa fórmula �
 
  
 
-É mais raro que bebês tenham intolerância à lactose ou que não possam digeri-la, mas quando isso acontece, em geral,** os pediatras indicam um tipo de fórmula em que a substância é baseada por outro açúcar, como o de milho, por exemplo.**
+É mais raro que bebês tenham intolerância à lactose ou que não possam digeri-la, mas quando isso acontece, em geral, **os pediatras indicam um tipo de fórmula em que a substância é baseada por outro açúcar, como o de milho, por exemplo.**
 
  
 
