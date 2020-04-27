@@ -18,7 +18,7 @@ meta:
 ---
 Seu bebê está com cólica? Não entre em pânico, mamãe, as cólicas são comuns, benignas e não indicam nada de errado com o seu bebê.
 
-**As **[**cólicas**](https://blog.gudaboo.com.br/posts/meu-bebe-se-espreme-todo-por-conta-da-colica-e-normal/)** ocorrem principalmente por contrações intestinais excessivas causadas pela imaturidade do sistema digestivo.** Elas acontecem, geralmente, nos três primeiros meses de vida, quando a criança ainda não tem a flora intestinal 100% desenvolvida, mas já precisa se adaptar à ingestão e digestão do leite.
+**As** [cólicas](https://blog.gudaboo.com.br/posts/meu-bebe-se-espreme-todo-por-conta-da-colica-e-normal/) **ocorrem principalmente por contrações intestinais excessivas causadas pela imaturidade do sistema digestivo.** Elas acontecem, geralmente, nos três primeiros meses de vida, quando a criança ainda não tem a flora intestinal 100% desenvolvida, mas já precisa se adaptar à ingestão e digestão do leite.
 
 E, para você entender melhor sobre esse assunto, hoje eu vou responder algumas dúvidas sobre cólicas em bebês.
 
@@ -43,7 +43,5 @@ Não! Até os 6 meses de idade não há necessidade de qualquer outro liquido ou
 Banho morno ou compressa morna na barriga do bebê podem ajudar. Deixar o bebê em um ambiente tranquilo, sem muitos estímulos, também. Você pode apostar em música ambiente para acalmá-lo. [Deite o bebê](https://blog.gudaboo.com.br/posts/7-dicas-para-ajudar-o-seu-bebe-a-dormir/) de bruços para que ele possa eliminar gases e evacuar.
 
 Vai ficar tudo bem, mamãe. Não precisa se preocupar. Lembre-se que, caso seja necessário fazer uso de algum medicamento, ele deve ser prescrito pelo pediatra. Combinado?
-
-
 
 **\*Texto feito por Dra. Laura Naspitz**
