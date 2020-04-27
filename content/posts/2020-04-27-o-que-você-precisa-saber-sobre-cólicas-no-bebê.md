@@ -18,7 +18,7 @@ meta:
 ---
 Seu bebê está com cólica? Não entre em pânico, mamãe, as cólicas são comuns, benignas e não indicam nada de errado com o seu bebê.
 
-**As** [cólicas](https://blog.gudaboo.com.br/posts/meu-bebe-se-espreme-todo-por-conta-da-colica-e-normal/) **ocorrem principalmente por contrações intestinais excessivas causadas pela imaturidade do sistema digestivo.** Elas acontecem, geralmente, nos três primeiros meses de vida, quando a criança ainda não tem a flora intestinal 100% desenvolvida, mas já precisa se adaptar à ingestão e digestão do leite.
+**As** [**cólicas**](https://blog.gudaboo.com.br/posts/meu-bebe-se-espreme-todo-por-conta-da-colica-e-normal/)** ocorrem principalmente por contrações intestinais excessivas causadas pela imaturidade do sistema digestivo.** Elas acontecem, geralmente, nos três primeiros meses de vida, quando a criança ainda não tem a flora intestinal 100% desenvolvida, mas já precisa se adaptar à ingestão e digestão do leite.
 
 E, para você entender melhor sobre esse assunto, hoje eu vou responder algumas dúvidas sobre cólicas em bebês.
 
