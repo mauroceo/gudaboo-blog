@@ -43,3 +43,7 @@ Não! Até os 6 meses de idade não há necessidade de qualquer outro liquido ou
 Banho morno ou compressa morna na barriga do bebê podem ajudar. Deixar o bebê em um ambiente tranquilo, sem muitos estímulos, também. Você pode apostar em música ambiente para acalmá-lo. [Deite o bebê](https://blog.gudaboo.com.br/posts/7-dicas-para-ajudar-o-seu-bebe-a-dormir/) de bruços para que ele possa eliminar gases e evacuar.
 
 Vai ficar tudo bem, mamãe. Não precisa se preocupar. Lembre-se que, caso seja necessário fazer uso de algum medicamento, ele deve ser prescrito pelo pediatra. Combinado?
+
+
+
+**\*Texto feito por Dra. Laura Naspitz**
