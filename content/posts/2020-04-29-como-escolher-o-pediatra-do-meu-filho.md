@@ -18,7 +18,7 @@ meta:
     qual o momento certo? Nossa doutora responde essas e outras perguntas aqui!
   title: Como escolher o pediatra do meu filho
 ---
-Em algum momento, pais de primeira viagem se perguntam: **_como escolher o pediatra do meu filho?_** 
+Em algum momento, pais de primeira viagem se perguntam: _**como escolher o pediatra do meu filho?**_ 
 
 Com tantos detalhes para se preocupar (exames, enxoval, chá de bebê e mudanças na rotina), muitas vezes a escolha do primeiro médico que vai acompanhar seu bebê até a adolescência não se torna prioridade. 
 
@@ -28,13 +28,14 @@ Se você está com dúvidas desse processo, acompanhe nossas dicas a seguir!
 
 
 
-
-
 ## 5 dicas na hora de escolher o pediatra do seu filho
 
 
 
-* **Não deixe para última hora!**
+![](/images/uploads/001.png)
+
+* **Não deixe para última hora!
+  **
 
 Como mencionamos anteriormente, é comum que pais inexperientes deixem para escolher o pediatra no último minuto, logo na necessidade da primeira consulta. 
 
@@ -46,13 +47,18 @@ Inclua na sua agenda a [consulta pediátrica pré-natal](https://blog.gudaboo.co
 
 
 
-* **Entenda as especialidades do profissional**
+![](/images/uploads/002.png)
+
+* **Entenda as especialidades do profissional
+  **
 
 É fundamental que você pesquise a fundo o currículo do pediatra: onde atua, formação e especialização e se é um profissional antenado com as mudanças e atualizações da área médica. 
 
 Quanto maior o conhecimento do profissional em patologias infantis, melhor. Você se sentirá mais segura diante de um diagnóstico, além de mais confiante na rotina de consultas.
 
 
+
+![](/images/uploads/003.png)
 
 * **Converse com quem já tomou a decisão **
 
@@ -64,7 +70,10 @@ Essa troca é muito importante para que você crie seus próprios parâmetros e 
 
 
 
-* **Fácil acesso, confiança e disponibilidade**
+![](/images/uploads/004.png)
+
+* **Fácil acesso, confiança e disponibilidade
+  **
 
 O profissional ideal deve ser alguém que você tenha uma relação direta e acessível. Assim, em caso de emergência, você terá o contato do pediatra para saber como proceder. Isso causa muito alívio em mamães de primeira viagem, que estão sempre às voltas com dúvidas e necessitam de mais suporte.
 
@@ -74,6 +83,8 @@ Outra condição que constitui as bases desse relacionamento é a disponibilidad
 
 
 
+![](/images/uploads/005.png)
+
 * **Observe, avalie e dialogue**
 
 Durante as [consultas](https://blog.gudaboo.com.br/posts/consulta-de-puericultura-o-que-e-avaliado/), observe se o profissional examina por completo seu bebê, tire dúvidas sempre e mantenha um diálogo aberto. 
@@ -82,11 +93,7 @@ Fique de olho em detalhes que muitas vezes passam batidos, como a facilidade que
 
 Lembre-se de que o pediatra acompanhará seu pequeno até a adolescência, portanto, é essencial que esse relacionamento seja harmônico e pautado em diálogo e confiança!
 
-
-
 ## Atendimento pediátrico a domicílio: segurança e praticidade com apenas alguns cliques!
-
-
 
 Agora que você já sabe como escolher o pediatra do seu filho, já pensou em utilizar a tecnologia em seu favor e agendar consultas com uma pediatra pela internet?
 
@@ -97,4 +104,4 @@ Para consultas imediatas, atendemos em até uma hora. Para agendamentos, a parti
 Precisa de uma pediatra a domicílio? Conte conosco: a GudaboO existe para facilitar a sua vida!
 
 \
-**_\*Texto feito por Dra. Milena Catani_**
+_**\*Texto feito por Dra. Milena Catani**_
