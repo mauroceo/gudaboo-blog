@@ -18,7 +18,7 @@ meta:
     qual o momento certo? Nossa doutora responde essas e outras perguntas aqui!
   title: Como escolher o pediatra do meu filho
 ---
-Em algum momento, pais de primeira viagem se perguntam: _**como escolher o pediatra do meu filho?**_ 
+Em algum momento, pais de primeira viagem se perguntam: **_como escolher o pediatra do meu filho?_** 
 
 Com tantos detalhes para se preocupar (exames, enxoval, chá de bebê e mudanças na rotina), muitas vezes a escolha do primeiro médico que vai acompanhar seu bebê até a adolescência não se torna prioridade. 
 
@@ -28,14 +28,13 @@ Se você está com dúvidas desse processo, acompanhe nossas dicas a seguir!
 
 
 
-## 5 dicas na hora de escolher o pediatra do seu filho
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
+# 5 dicas na hora de escolher o pediatra do seu filho
 
+![Clock](/images/uploads/006.png)
 
-![](/images/uploads/001.png)
-
-* **Não deixe para última hora!
-  **
+* **Não deixe para última hora!**
 
 Como mencionamos anteriormente, é comum que pais inexperientes deixem para escolher o pediatra no último minuto, logo na necessidade da primeira consulta. 
 
@@ -45,22 +44,17 @@ Por isso, o recomendado é que você comece a sondar um pediatra logo no 2º tri
 
 Inclua na sua agenda a [consulta pediátrica pré-natal](https://blog.gudaboo.com.br/posts/consulta-pre-natal-pediatrica-por-que-fazer/), a partir da 32ª semana de gestação, para antecipar desafios na vida materna e tirar de letra os primeiros meses do bebê.
 
+![pediatra](/images/uploads/002.png)
 
-
-![](/images/uploads/002.png)
-
-* **Entenda as especialidades do profissional
-  **
+* **Entenda as especialidades do profissional**
 
 É fundamental que você pesquise a fundo o currículo do pediatra: onde atua, formação e especialização e se é um profissional antenado com as mudanças e atualizações da área médica. 
 
 Quanto maior o conhecimento do profissional em patologias infantis, melhor. Você se sentirá mais segura diante de um diagnóstico, além de mais confiante na rotina de consultas.
 
+![null](/images/uploads/003.png)
 
-
-![](/images/uploads/003.png)
-
-* **Converse com quem já tomou a decisão **
+* **Converse com quem já tomou a decisão**
 
 Nada como a voz da experiência para te ajudar nesse momento, não é mesmo? Busque por informações com quem já passou por essa situação. Entenda os motivos que fizeram a escolha pelo profissional X ou Y, quais critérios são fundamentais no processo etc.
 
@@ -68,12 +62,9 @@ Ao ouvir opinião de terceiros, você pode criar um “mega filtro” para se pr
 
 Essa troca é muito importante para que você crie seus próprios parâmetros e personalize o profissional ideal para o seu bebê. 
 
+![null](/images/uploads/004.png)
 
-
-![](/images/uploads/004.png)
-
-* **Fácil acesso, confiança e disponibilidade
-  **
+* **Fácil acesso, confiança e disponibilidade**
 
 O profissional ideal deve ser alguém que você tenha uma relação direta e acessível. Assim, em caso de emergência, você terá o contato do pediatra para saber como proceder. Isso causa muito alívio em mamães de primeira viagem, que estão sempre às voltas com dúvidas e necessitam de mais suporte.
 
@@ -81,9 +72,7 @@ Seu sexto sentido é aguçado? É muito importante que o médico do seu bebê tr
 
 Outra condição que constitui as bases desse relacionamento é a disponibilidade do profissional. Você se sente ouvida? É acolhida em momentos de extrema dúvida ou preocupação? O quão disponível seu pediatra é revela que ele está disposto a auxiliar você independentemente do motivo!
 
-
-
-![](/images/uploads/005.png)
+![null](/images/uploads/005.png)
 
 * **Observe, avalie e dialogue**
 
@@ -104,4 +93,4 @@ Para consultas imediatas, atendemos em até uma hora. Para agendamentos, a parti
 Precisa de uma pediatra a domicílio? Conte conosco: a GudaboO existe para facilitar a sua vida!
 
 \
-_**\*Texto feito por Dra. Milena Catani**_
+**_\*Texto feito por Dra. Milena Catani_**
