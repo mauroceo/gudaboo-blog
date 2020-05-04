@@ -23,8 +23,7 @@ meta:
 ---
 Mamães e papais, precisamos falar sobre a alimentação dos nossos pequenos! 
 
-Afinal, tudo o que oferecemos para eles – principalmente nos primeiros anos de vida - **influencia diretamente na saúde, no crescimento e no desenvolvimento do bebê.
-**
+Afinal, tudo o que oferecemos para eles – principalmente nos primeiros anos de vida - **influencia diretamente na saúde, no crescimento e no desenvolvimento do bebê.**
 
 Portanto, se **introduzirmos os alimentos no tempo certo, de maneira adequada e com escolhas saudáveis, estaremos contribuindo com a saúde do bebê para o resto da vida!**
 
