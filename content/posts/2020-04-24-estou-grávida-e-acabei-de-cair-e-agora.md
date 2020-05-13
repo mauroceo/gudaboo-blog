@@ -57,6 +57,4 @@ Se sentir qualquer um dos sintomas que falei lá em cima, procure o pronto-socor
 
 Agora eu quero saber: quais mudanças você tem feito na sua rotina para evitar as quedas?
 
-
-
-\*Texto feito por Dra. Natalia Aziz
+**\*Texto feito por Dra. Natalia Ferreira**
