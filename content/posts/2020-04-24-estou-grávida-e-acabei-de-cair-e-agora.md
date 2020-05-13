@@ -49,10 +49,12 @@ Chegou a hora de guardar os saltos e os sapatos apertados, afinal, inchaços tam
 
 Em casa, use sapatos de borracha e fique atenta quando estiver em ambientes escorregadios, como banheiros.
 
-Além disso, cuidado com tapetes e escadas, pois podem ser armadilhas nesse momento. E lembre-se: nada de carregar objetos pesados, pois podem te desequilibrar.
+Além disso, cuidado com tapetes e escadas, pois podem ser armadilhas nesse momento. E lembre-se: nada de carregar objetos pesados, pois podem te desequilibrar.
 
 Se, mesmo com esses cuidados, você for vítima de uma queda, não entre em desespero. O líquido amniótico serve justamente para proteger o bebê na barriga.
 
 Se sentir qualquer um dos sintomas que falei lá em cima, procure o pronto-socorro para garantir que está tudo bem.
 
 Agora eu quero saber: quais mudanças você tem feito na sua rotina para evitar as quedas?
+
+**\*Texto feito por Dra. Natalia Ferreira**
