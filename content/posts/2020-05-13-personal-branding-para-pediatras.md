@@ -25,7 +25,7 @@ Todo mundo que presta um serviço tem um objetivo em comum: vender. Mas, já par
 
 Por isso, hoje vamos falar sobre um assunto muito importante para as pediatras que querem se diferenciar no mercado: a importância do Personal Branding.
 
-Como construir uma marca pessoal forte
+## Como construir uma marca pessoal forte
 
 Para atrair e reter clientes nos dias de hoje, algumas estratégias podem ser grandes aliadas. Mas sabemos que falar sobre esse tema requer um aprofundamento maior.
 
@@ -37,6 +37,4 @@ Quer saber como fazer uma gestão estratégica da sua marca pessoal pode ajudar 
 
 Boa leitura!
 
-
-
-_**\*Texto escrito por Luiza Aziz.**_
+**_\*Texto escrito por Luiza Aziz._**
