@@ -53,6 +53,10 @@ Confira abaixo – com atenção, hein? 
 
 Gostou? Então, olha só, preparamos um gráfico para você salvar e não esquecer mais desses passos. Confira abaixo:
 
-![](/images/uploads/infografico_alimentacao_saudavel_bebe.png)
+![null](/images/uploads/infografico_alimentacao_saudavel_bebe.png)
 
 Agora, nos diga papai e mamãe, vocês já tinham ouvido falar sobre esses passos? Restou alguma dúvida? Comenta aqui! Estamos aqui para te ajudar nessa missão.
+
+
+
+_**\*Texto feito por Dra. Laura Naspitz**_
