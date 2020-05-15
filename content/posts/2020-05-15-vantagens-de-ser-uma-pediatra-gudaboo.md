@@ -37,7 +37,7 @@ Nossa missão é facilitar e agilizar consultas pediátricas, beneficiando profi
 
 # 9 motivos para ser uma pediatra GudaboO
 
-`<iframe src="https://giphy.com/embed/J0a9SREMHkBAA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/J0a9SREMHkBAA">via GIPHY</a></p>`
+
 
 ## 1- Mais conforto
 
