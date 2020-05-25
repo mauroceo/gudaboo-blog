@@ -45,7 +45,7 @@ Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa
 
 ## O que não pode faltar na minha checklist na maternidade?
 
-![]()
+![](/images/uploads/checklist_mockup2.png)
 
 ## 1- Documentação para internação
 
@@ -107,4 +107,4 @@ Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa
 * Álcool em gel 70º
 * Celular e carregador para registrar momento de mãe e bebê
 
-Para **facilitar sua organização**, preparamos um documento (para imprimir) para você conferir item por item e se preparar, com calma, para o grande dia! Clique aqui para fazer o download gratuito da checklist para levar na maternidade.
+Para **facilitar sua organização**, preparamos um documento (para imprimir) para você conferir item por item e se preparar, com calma, para o grande dia! [Clique aqui para fazer o download gratuito da checklist para levar na maternidade.](http://gudaboo-com-br-7270407.hs-sites.com/checklist)
