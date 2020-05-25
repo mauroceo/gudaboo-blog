@@ -29,8 +29,6 @@ Além de se preparar emocionalmente, é preciso ter atenção com itens como rou
 
 Para ajudar você nessa missão, preparamos um guia completo. Confira!
 
-
-
 ## Quando devo fazer a lista?
 
 Recomenda-se preparar a bolsa dois meses antes do parto. Quanto antes, melhor. É importante frisar que a malinha da maternidade varia de caso para caso. A quantidade de itens pessoais dependerá do tempo de internação e também da estação do ano.
@@ -45,24 +43,18 @@ Por outro lado, se a opção for parto normal, o tempo de permanência no hospit
 
 Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa, toalhas, fraldas e outros itens. 
 
-
-
 ## O que não pode faltar na minha checklist na maternidade?
 
-
-
-## 
+![]()
 
 ## 1- Documentação para internação
 
-* Documentos de identificação da mãe e do acompanhante (RG ou Carteira de Habilitação)
+* Documentos de identificação da mãe e do acompanhante (RG ou Carteira de Habilitação)
 * Carteirinha do convênio, se houver
 * Carta do obstetra, cartão do pré-natal ou cartão da gestante
 * Exames do pré-natal mais recentes
 * Autorização do plano de saúde, em caso de hospital privado
 * Plano de parto, se houver
-
-
 
 ## 2- Para a mamãe
 
@@ -81,8 +73,6 @@ Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa
 * Álcool em gel 70º
 * Garrafinha de água
 * Saco plástico ou TNT para colocar roupa suja
-
-
 
 ## 3- Para o bebê
 
@@ -104,11 +94,7 @@ Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa
 * Máscara de proteção face shield* para proteger contra contaminação
 * Sacos para roupa suja
 
-
-
 **\*Segundo recomendação da Anvisa, crianças menores de 2 anos não devem utilizar máscaras de proteção**.
-
-
 
 ## 4- Para o acompanhante
 
@@ -120,7 +106,5 @@ Ah, e caso você esteja esperando gêmeos, dobre a quantidade de peças de roupa
 * Sacos para roupa suja
 * Álcool em gel 70º
 * Celular e carregador para registrar momento de mãe e bebê
-
-
 
 Para **facilitar sua organização**, preparamos um documento (para imprimir) para você conferir item por item e se preparar, com calma, para o grande dia! Clique aqui para fazer o download gratuito da checklist para levar na maternidade.
