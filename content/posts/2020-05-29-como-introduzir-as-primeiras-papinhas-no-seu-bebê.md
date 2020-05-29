@@ -48,12 +48,6 @@ No entanto, **existem duas palavras-chave para os pais nesse momento: paciência
 * **Escolha um ambiente confortável:** o bebê precisa estar calmo e tranquilo, afinal é um momento 100% novo para ele. Portanto, indicamos um local sem distrações e barulho. Ah, e se o pequeno ficar agitado na cadeirinha, não force! Coloque-o sentando no seu colo. 
 * **Não o force a comer tudo:** mesmo que seja ideal o bebê comer toda a papinha, não é necessário obrigá-lo a ingerir tudo. Aliás, se forçar depois poderá causar o efeito contrário: a rejeição pela comida. 
 
-Saiba como fazer, **na prática**, a primeira papinha salgada do seu bebê:
-
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yHv1-FHQNc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
 ## Conselhos que precisam ser considerados
 
 Pequenos detalhes fazem toda a diferença nessa nova fase, veja abaixo mais dicas essenciais: 
