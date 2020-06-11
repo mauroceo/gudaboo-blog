@@ -29,7 +29,7 @@ Espantar o tédio é um verdadeiro desafio. Mas, com um pouco de jogo de cintura
 
 
 
-**1- Planeje uma “canseira” nas crianças**
+**1-Planeje uma “canseira” nas crianças**
 
 Sabemos como é difícil separar um momento a sós com crianças em casa. Por isso, para aproveitar uma noite romântica com sua cara metade, é essencial criar um verdadeiro plano de ação para os pequenos irem para cama mais cedo.
 
@@ -43,7 +43,7 @@ Prepare-as para dormir duas horas antes de curtir sua noite. Só peça comida qu
 
 
 
-**2- Deixe para organizar a casa no dia seguinte**
+**2-Deixe para organizar a casa no dia seguinte**
 
 Para manter as crianças ativas durante o dia, é provável que role aquela baguncinha. Mas, tudo bem, mamãe! Não se estresse com isso e deixe a arrumação para o dia seguinte. Senão, você acabará cansada no final do dia, sem disposição para curtir seu amor!
 
@@ -51,7 +51,7 @@ Aproveite e incentive as crianças a ajudar na organização da casa. Explique q
 
 
 
-**3- Cuide de você para essa noite especial**
+**3-Cuide de você para essa noite especial**
 
 Separe um momentinho durante o dia e dê um jeitinho no visual. Com o isolamento, deixamos de lado alguns rituais de beleza, porém, lembre-se de que se trata de uma ocasião especial. 
 
@@ -59,7 +59,7 @@ Tome um banho mais demorado e relaxe. Não poupe esforços em dar uma hidratada 
 
 
 
-**4- Peça uma refeição leve**
+**4-Peça uma refeição leve**
 
 Combine com antecedência uma comidinha bem leve para o jantar. Comer algo muito pesado pode causar sensação de desconforto e até indisposição. 
 
@@ -69,19 +69,19 @@ Ah, e não se esqueça da sobremesa e de um vinho especial para acompanhar!
 
 
 
-**5- Prepare-se como se estivesse saindo para jantar**
+**5-Prepare-se como se estivesse saindo para jantar**
 
 Separe aquele vestido especial, capriche na maquiagem e arremate o visual com perfume e até mesmo uma joia, se for o seu estilo. Fique linda e arrumada como se estivesse, de fato, saindo para jantar fora. 
 
 
 
-**6- Surpreenda seu companheiro**
+**6-Surpreenda seu companheiro**
 
 Escolher aquele prato especial do restaurante favorito, selecionar uma trilha sonora que tem tudo a ver com a história de vocês dois, tirar da gaveta aquela lingerie, improvisar uma massagem e outros mimos tornam o momento ainda mais especial. Saia do lugar comum e surpreenda seu amado!
 
 
 
-**7- Deixe o celular desligado**
+**7-Deixe o celular desligado**
 
 Estamos sempre hiperconectados, mas, antes de jantar, combine com seu marido de ambos desligarem os celulares. Se quiser registrar o momento com fotos ou vídeo, tudo bem! Contudo, não se esqueçam de desligar o celular de vez na hora de curtir o jantar!
 
