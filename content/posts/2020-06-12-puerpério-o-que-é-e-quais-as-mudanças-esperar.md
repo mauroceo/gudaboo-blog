@@ -47,3 +47,7 @@ O melhor a fazer é marcar uma consulta com o seu profissional de confiança log
 Se você já está passando pelo puerpério e quer uma orientação, [marque uma consulta](www.gudaboo.com.br) de pós-parto e receba uma de nossas profissionais no conforto do seu lar.
 
 Leia também o nosso texto sobre [puericultura](https://blog.gudaboo.com.br/posts/consulta-de-puericultura-o-que-e-avaliado/) e saiba quais são os cuidados que o seu bebê vai precisar nos próximos meses.
+
+
+
+_**Texto feito pela Dra. Milena Catani**_
