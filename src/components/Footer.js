@@ -12,7 +12,7 @@ export default ({ globalSettings, socialSettings, navLinks }) => (
     <InstagramFeed count="8" />
     <footer className='Footer'>
     <div className='container taCenter'>
-      <span>Beliive © {new Date().getFullYear()} All rights reserved.</span>
+      <span>Gudaboo © 2019 - {new Date().getFullYear()} All rights reserved.</span>
     </div>
   </footer>
   </div>
