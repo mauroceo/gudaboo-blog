@@ -21,7 +21,8 @@ excerpt: >
   E essa frequência muda conforme o bebê cresce. Quer saber como funciona?
   Então, leia ao texto e fique por dentro!
 categories:
-  - category: Pediatria
+  - category: Bebês
+  - category: Crianças
 meta:
   canonicalLink: 'frequencia-ideal-de-consultas-ao-pediatra '
   description: >
