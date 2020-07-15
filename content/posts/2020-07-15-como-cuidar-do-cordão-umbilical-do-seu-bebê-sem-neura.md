@@ -5,22 +5,15 @@ status: Published
 date: '2020-07-15'
 featuredImage: /images/uploads/29-cordaoumbilical_blog.png
 excerpt: >
-  A realização do pré-natal e até mesmo cursos de orientação para as gestantes
-  podem ajudar as futuras mamães a aprenderem sobre os cuidados com o umbiguinho
-  do bebê após o nascimento. Mas se você passou por essas orientações e ainda
-  assim tem dúvidas sobre como quais os cuidados necessários com o cordão
-  umbilical do bebê, aqui vão algumas dicas para que você se sinta mais segura
-  nesse momento.
+  Tem dúvidas sobre quais os cuidados necessários com o cordão umbilical do
+  bebê? Aqui vão algumas dicas para que você se sinta mais segura nesse momento.
 categories:
   - category: Bebês
 meta:
   description: >
-    A realização do pré-natal e até mesmo cursos de orientação para as gestantes
-    podem ajudar as futuras mamães a aprenderem sobre os cuidados com o
-    umbiguinho do bebê após o nascimento. Mas se você passou por essas
-    orientações e ainda assim tem dúvidas sobre como quais os cuidados
-    necessários com o cordão umbilical do bebê, aqui vão algumas dicas para que
-    você se sinta mais segura nesse momento.
+    Tem dúvidas sobre quais os cuidados necessários com o cordão umbilical do
+    bebê? Aqui vão algumas dicas para que você se sinta mais segura nesse
+    momento.
   title: Como cuidar do cordão umbilical do seu bebê sem neura
 ---
 Em um tempo não muito distante, acreditava-se que o cordão umbilical era algo complicado de se cuidar e devia ser “curado” por alguém que entendesse do assunto. O medo de uma possível infecção ou de machucar o bebê aumentava ainda mais a insegurança das mamães e ajudava a perpetuar essa crença. 
